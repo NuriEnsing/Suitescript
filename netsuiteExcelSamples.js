@@ -4,9 +4,8 @@
  * @NAmdConfig /SuiteScripts/Your Folder//json_conf.json
  *
  * @author Nuri Ensing
-
  * @module N/file
- * @module xlsx 
+ * @module xlsx
  *
  * @description Generate excel files
  * @references libraries used: SheetJS https://docs.sheetjs.com/docs/example
