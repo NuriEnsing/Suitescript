@@ -1,7 +1,7 @@
 /**
  * @NApiVersion 2.1
  * @NScriptType UserEventScript
- * @NAmdConfig /SuiteScripts/Your Folder//json_conf.json
+ * @NAmdConfig /SuiteScripts/Your Folder/json_conf.json
  *
  * @author Nuri Ensing
  * @module N/file
