@@ -12,7 +12,7 @@
  * @references libraries used: SheetJS https://docs.sheetjs.com/docs/example
  */
 
-define(["N/search", "N/file", "xlsx"], function (file, xlsx) {
+define(["N/file", "xlsx"], function (file, xlsx) {
     /**
      * @function createExcelFileWithJsonData
      * @description Create a Excel file with a named sheet and  populate json data inside the excel file
