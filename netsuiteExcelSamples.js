@@ -4,14 +4,15 @@
  * @NAmdConfig /SuiteScripts/Your Folder//json_conf.json
  *
  * @author Nuri Ensing
- *
- * @module xlsx
+
+ * @module N/file
+ * @module xlsx 
  *
  * @description Generate excel files
  * @references libraries used: SheetJS https://docs.sheetjs.com/docs/example
  */
 
-define(["N/search", "N/file", "xlsx"], function (search, file, xlsx) {
+define(["N/search", "N/file", "xlsx"], function (file, xlsx) {
     /**
      * @function createExcelFileWithJsonData
      * @description Create a Excel file with a named sheet and  populate json data inside the excel file
