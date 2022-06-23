@@ -10,6 +10,7 @@
  *
  * @description Generate excel files
  * @references libraries used: SheetJS https://docs.sheetjs.com/docs/example
+ * @references extra samples: https://nserpsolutions.com/suitescript/scheduled-script/read-create-modify-excel-files-in-suitescript-using-sheetjs/
  */
 
 define(["N/file", "xlsx"], function (file, xlsx) {
