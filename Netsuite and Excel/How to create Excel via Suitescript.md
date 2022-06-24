@@ -1,4 +1,4 @@
-## How to create Excel via Suitescript
+## README - How to create Excel via Suitescript
 
 1. Add json_conf.json and netsuiteExcelSample.js to filecabinet (I have added them both in the same folder)
 2. Download xlsx.full.min.js from: https://github.com/SheetJS/sheetjs
