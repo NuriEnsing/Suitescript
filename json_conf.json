@@ -1,0 +1,6 @@
+{
+    "baseUrl": "./",
+    "paths": {
+        "xlsx": "../../../Libraries/External/xlsx.full.min.js"
+    }
+}
